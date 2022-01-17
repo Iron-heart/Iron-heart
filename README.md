@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I am Oğuzhan Şeker, a self-taught web front-end developer.
+I am Oğuzhan Şeker,
 
-- 🔭 I’m currently working on Progressive Web Apps and pursuing a career as a front-end developer.
+Working my way up to become a decent human being and a complete front-end developer.
